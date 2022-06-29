@@ -1,9 +1,7 @@
 # JUMANAH MUTAHHAR
 ## SUMMARY
 
-<img src="Picture.jpg" width="20%" style="float:flat;"> 
-
-Hard-Working Computer Science Student from Umm Al-Qura university, always energetic and eager to learn new skills. 
+<img src="Picture.jpg" width="20%" style="float:flat;"> Hard-Working Computer Science Student from Umm Al-Qura university, always energetic and eager to learn new skills. 
 
 
 ## EDUCATION 
