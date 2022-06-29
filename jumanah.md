@@ -14,5 +14,6 @@ Computer Science, Expected Graduation: 2023.
 ## LANGUAGES
 * Arabic: Native.
 * English: intermediate
+* hh
 
 
