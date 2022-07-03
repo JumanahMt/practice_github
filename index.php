@@ -1,5 +1,5 @@
 <?php
 echo"commit ";
-echo"test pull request ";
+echo"It's conflict ";
 
 ?>
