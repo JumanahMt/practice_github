@@ -1,5 +1,7 @@
 <?php
 echo"commit ";
-echo"It's conflict ";
+echo"this should cause a conflict ";
+
+
 
 ?>
